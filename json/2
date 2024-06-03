@@ -1,0 +1,19 @@
+{
+    "name": "Fishermen #1",
+    "description": "",
+    "image": "ipfs://Qma6DAnuNJvtYazdvZL7cQakLYuyU7yNU6ySifSBLZ1jas/2.JPEG",
+    "attributes": [
+        {
+            "trait_type": "Fishing rod",
+            "value": "Okuma"
+        },
+        {
+            "trait_type": "Line",
+            "value": "Copolymer"
+        },
+        {
+            "trait_type": "Fish",
+            "value": "Arapaima "
+        }
+    ]
+}

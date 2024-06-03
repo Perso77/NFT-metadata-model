@@ -1,0 +1,19 @@
+{
+    "name": "Fishermen #0",
+    "description": "",
+    "image": "ipfs://Qma6DAnuNJvtYazdvZL7cQakLYuyU7yNU6ySifSBLZ1jas/0.JPEG",
+    "attributes": [
+        {
+            "trait_type": "Fishing rod",
+            "value": "Shimano"
+        },
+        {
+            "trait_type": "Line",
+            "value": "Mono"
+        },
+        {
+            "trait_type": "Fish",
+            "value": "Muskellunge "
+        }
+    ]
+}
